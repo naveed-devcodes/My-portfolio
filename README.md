@@ -1,6 +1,6 @@
 # React JS Portfolio Website
 
-[🔗Live Demo🔗]()
+[🔗Live Demo🔗](https://arham-dev.vercel.app)
 
 ![Protfolio Website](src/assets/Portfolio-Preview.png)
 
@@ -33,6 +33,6 @@ The page will reload if you make edits.
 <br />
 Feel free to contribute to this repo.
 
-### If you enjoyed this project, don't forget to sprinkle some stardust by giving it a star! ✨🌌
+### If you enjoyed this project, don't forget to sprinkle some stardust by giving it a star! ✨
 
 <h1 align=center> 🎨 Craft Your Code with Passion! 🎨 </h1>
