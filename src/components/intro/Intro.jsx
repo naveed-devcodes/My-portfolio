@@ -21,7 +21,7 @@ const Intro = () => {
             <article className="about__card">
               <FaAward className="about__icon" />
               <h5>Experience</h5>
-              <small>3.5 years</small>
+              <small>4 years</small>
             </article>
             <article className="about__card">
               <VscFolderLibrary className="about__icon" />
@@ -30,12 +30,12 @@ const Intro = () => {
             </article>
           </div>
           <p>
-            Full Stack Developer with over 3 years experience in building and
+            Full Stack Developer with around 4 years experience in building and
             optimizing web applications with high performance. Proﬁcient in
             designing scalable, eﬃcient, and secure systems using modern
-            technologies such as React, Node.js, PostgreSQL, and AWS.
-            Skilled in writing clean, maintainable code with a focus on software best
-            practices, performance optimization, and technical innovation. 
+            technologies such as React, Node.js, PostgreSQL, and AWS. Skilled in
+            writing clean, maintainable code with a focus on software best
+            practices, performance optimization, and technical innovation.
             Experienced in collaborating with cross-functional teams to deliver
             solutions that meet business objectives and enhance user experience.
             Passionate about solving complex problems, continuously improving
