@@ -19,7 +19,7 @@ const Portfolio = () => {
         'An educational platform offering a variety of online courses, allowing users to learn from experts and earn certificates. It provides an interactive space for people to access valuable information and enhance their skills.',
       technologies: 'React.Js | JavaScript | Html | CSS',
       link: 'https://academia-portal.vercel.app/',
-      github: 'https://github.com/Arham-Dev1/ACADEMIA',
+      github: 'https://github.com/Naveed-Devcodes/ACADEMIA',
     },
     {
       id: 2,
@@ -29,7 +29,7 @@ const Portfolio = () => {
         'Wiggles is a pet management app that helps pet parents create unique pet profiles, securely store vaccination records, and generate QR codes for easy sharing.',
       technologies: 'React.js | Node.js | Express.js | MongoDB',
       link: 'https://wiggles.vercel.app/',
-      github: 'https://github.com/Arham-Dev1/Wiggles',
+      github: 'https://github.com/Naveed-Devcodes/Wiggles',
     },
     {
       id: 3,
@@ -39,7 +39,7 @@ const Portfolio = () => {
         'A web-based weather app that allows users to search for any location and get real-time weather updates, as well as check the weather for their current location.',
       technologies: 'React.js | Tailwind CSS',
       link: 'https://iweather-forecast.vercel.app/',
-      github: 'https://github.com/Arham-Dev1/iWeather',
+      github: 'https://github.com/Naveed-Devcodes/iWeather',
     },
     {
       id: 4,
@@ -49,7 +49,7 @@ const Portfolio = () => {
         'This project is a sleek, web-based music player with an attractive UI. It offers real-time updates for actions like play, pause, and forward, providing a smooth and interactive listening experience.',
       technologies: 'JavaScript | HTML | CSS',
       link: 'https://music-player-zone.vercel.app/',
-      github: 'https://github.com/Arham-Dev1/Music-Player',
+      github: 'https://github.com/Naveed-Devcodes/Music-Player',
     },
     {
       id: 5,
@@ -59,7 +59,7 @@ const Portfolio = () => {
         'GoSchoolBox is a SaaS platform that connects schools with tutoring companies, automating tutoring operations. Its user base grew from 50,000 to 1 million, highlighting its impact on student learning outcomes.',
       technologies: 'React.js | Node.js | Express.js | PostgreSQL',
       link: 'https://goschoolbox.com',
-      github: 'https://github.com/Arham-Dev1',
+      github: 'https://github.com/Naveed-Devcodes',
     },
     {
       id: 6,
@@ -70,7 +70,7 @@ const Portfolio = () => {
       technologies:
         'Nest.js | React.js | Redux | Docker | AWS | Stripe | PostgreSQL',
       link: 'https://glamezy.com/main/home',
-      github: 'https://github.com/Arham-Dev1',
+      github: 'https://github.com/Naveed-Devcodes',
     },
   ];
 
